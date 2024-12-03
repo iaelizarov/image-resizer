@@ -12,7 +12,7 @@ The image resizer application is organized as follows:
 
 - **Docker Configuration:** The Dockerfile contains all the steps to set up the application in a containerized environment, and it includes running the main script.
 
-- **Main Logic:** The project contains Challenge2.csv file with the original image. The running of the application will trigger creating database, resizing the original image, and inserting it into the database, then the service is started.
+- **Main Logic:** The project contains the Challenge2.csv file with the original image. Running the application will trigger the creation of a database, resizing of the original image, and insertion of the resized image into the database, after which the service will start.
 
 ## 2. How to Run It
 
