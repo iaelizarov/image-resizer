@@ -30,7 +30,7 @@ The application will be accessible at http://127.0.0.1:8000.
 
 ## 3. Description of API Requests
 
-**1. Get Frames**
+**Get Frames**
 
 Endpoint: `GET /api/get-frames/`
 
