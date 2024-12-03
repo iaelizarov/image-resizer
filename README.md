@@ -38,4 +38,4 @@ Description: Getting the frames between depth_min and depth_max for the resized 
 
 ## 4. Visualization of the results
 
-There is a notebook "resize_test_requests.ipynb" attached that contains the request and the results of the visualization
+There is a notebook "resize_test_requests.ipynb" attached that contains the request and the results of the visualization. Custom colormap can be applied in this notebook.
