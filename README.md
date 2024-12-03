@@ -8,7 +8,7 @@ The image resizer application is organized as follows:
 
 - **Initializing functions:** All core logic for initializing the databased, resizing the image, and putting it into database is located in utils folder.
 
-- **Database:** A SQLite database (image_detection.db) stores information about resized image with columns depth, col1, col2, ..., col150.
+- **Database:** A SQLite database (resized_image.db) stores information about resized image with columns depth, col1, col2, ..., col150.
 
 - **Docker Configuration:** The Dockerfile contains all the steps to set up the application in a containerized environment, and it includes running the main script.
 
